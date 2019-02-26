@@ -10,7 +10,7 @@ def fileopen():
     filename = askopenfilename()
     file = filename
     if file[-3:] == "mp4":
-        clip = mp.VideoFileClip(file).subclip(0, 30)
+        clip = mp.VideoFileClip(file).subclip(60, 120)
         clip.audio.write_audiofile("theaudio.wav")
         r = sr.Recognizer()
         audio = 'theaudio.wav'
