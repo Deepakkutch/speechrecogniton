@@ -28,7 +28,7 @@ co-occurance with other words in the text.
 
 # Future plan 
 Extracting knowledge using the obtained keywords.
-User can search any keywords and the program can deliver all the audio corresponding the 
+User can search any keywords and the program can deliver all the audio & video corresponding the 
 search query.
 
 
