@@ -1,6 +1,11 @@
 # SPEECH RECOGNITION 
 
-  
+# Group Members
+
+Arun Kumar S-711715104009
+Deepak G-  711715104012
+Karthik Raja M- 711715104028
+
 # Problem statement
 
 A speech to text conversion system.
