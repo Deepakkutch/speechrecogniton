@@ -85,9 +85,11 @@ Karthik Raja  --->Implementation of Keyword Extraction using RAKE algorithm
 # Module Splitup
 
 * Module 1:*
-   User interface
+  
+  User interface
    
 * Module 2:*   
+   
    Speech to text conversion
    
 * Module 3:*
