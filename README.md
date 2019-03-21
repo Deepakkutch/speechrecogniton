@@ -18,6 +18,13 @@ Has the ability to extract keywords from the processed audio.
 
 Can identify the flavour of the processed audio or video file.
 
+# Minimum System Requirements
+
+* Python 2.7
+* speechrecognition
+* moviepy
+* rake-nltk
+
 # Technologies used
 
 Python
@@ -34,6 +41,7 @@ Main feature of selecting RAKE algorithm is that it is domain independent and ca
 co-occurance with other words in the text. 
 
 # Future plan 
+
 Extracting knowledge using the obtained keywords.
 User can search any keywords and the program can deliver all the audio & video corresponding the 
 search query.
