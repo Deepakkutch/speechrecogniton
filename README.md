@@ -48,12 +48,13 @@ To quickly try it out, run ``python -m speech_recognition`` after installing.
 
 
 
-# Minimum System Requirements
+# Minimum Requirements
 
 * Python 2.7
-* speechrecognition
-* moviepy
-* rake-nltk
+* speechrecognition 3.8.1
+* moviepy 1.0.0
+* rake-nltk 1.0.4
+* Pyaudio 0.2.9
 
 # Task Splitup
 
