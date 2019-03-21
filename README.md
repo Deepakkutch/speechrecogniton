@@ -56,6 +56,10 @@ To quickly try it out, run ``python -m speech_recognition`` after installing.
 * rake-nltk 1.0.4
 * Pyaudio 0.2.9
 
+# Develope Environment
+
+Pycharm IDE 3.4
+
 # Task Splitup
 
 Arunkumar ---> User interface(Tkinter) and Design of the project workflow
