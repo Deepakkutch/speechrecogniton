@@ -82,6 +82,17 @@ Deepak ---> Implementation of speech to text conversion for both audio and video
 
 Karthik Raja  --->Implementation of Keyword Extraction using RAKE algorithm
 
+# Module Splitup
+
+* Module 1:*
+   User interface
+   
+* Module 2:*   
+   Speech to text conversion
+   
+* Module 3:*
+   Keyword Extraction
+   
 # Technologies used
 
 * Python
