@@ -99,6 +99,12 @@ Extraction of keywords from the output file using RAKE(Rapid Automatic Keyword E
 Main feature of selecting RAKE algorithm is that it is domain independent and can analyse the frequency of the word appreance and its 
 co-occurance with other words in the text. 
 
+# Splitup
+
+Arunkumar-----User interface(Tkinter) and Design of the project workflow
+Deepak--------Implementation of speech to text conversion for both audio and video
+Karthik Raja--Implementation of Keyword Extraction using RAKE algorithm
+
 # Future plan 
 
 Extracting knowledge using the obtained keywords.
