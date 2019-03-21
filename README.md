@@ -60,6 +60,17 @@ To quickly try it out, run ``python -m speech_recognition`` after installing.
 
 Pycharm IDE 3.4
 
+# Module Splitup
+
+# Module 1:
+   User interface creation
+   
+# Module 2:
+   Speech to text conversion
+   
+# Module 3:
+   Keyword Extraction
+
 # Task Splitup
 
 Arunkumar ---> User interface(Tkinter) and Design of the project workflow
