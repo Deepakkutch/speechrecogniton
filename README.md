@@ -73,16 +73,6 @@ Python package to install tkinter used in the development of the user interface
 
 Pycharm IDE 3.4
 
-# Module Splitup
-
-**Module 1:**
-   User interface creation
-   
-**Module 2:**
-   Speech to text conversion
-   
-**Module 3:**
-   Keyword Extraction
 
 # Task Splitup
 
