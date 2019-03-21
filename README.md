@@ -13,6 +13,12 @@ Karthik Raja M- 711715104028
 SpeechRecognition
 =================
 
+
+# Problem statement
+
+Design a system to convert speech to text files from audio and video files to extract keywords or keyphrases.
+
+
 # Installing
 ----------
 
@@ -41,20 +47,6 @@ To use all of the functionality of the library, you should have:
 To quickly try it out, run ``python -m speech_recognition`` after installing.
 
 
-Python
-~~~~~~
-
-The first software requirement is `Python 2.6, 2.7, or Python 3.3+ <https://www.python.org/download/releases/>`__. This is required to use the library.
-
-
-
-
-
-
-
-# Problem statement
-
-Design a system to convert speech to text files from audio and video files to extract keywords or keyphrases
 
 # Minimum System Requirements
 
@@ -62,6 +54,14 @@ Design a system to convert speech to text files from audio and video files to ex
 * speechrecognition
 * moviepy
 * rake-nltk
+
+# Task Splitup
+
+Arunkumar ---> User interface(Tkinter) and Design of the project workflow
+
+Deepak ---> Implementation of speech to text conversion for both audio and video
+
+Karthik Raja  --->Implementation of Keyword Extraction using RAKE algorithm
 
 # Technologies used
 
@@ -78,13 +78,7 @@ Extraction of keywords from the output file using RAKE(Rapid Automatic Keyword E
 Main feature of selecting RAKE algorithm is that it is domain independent and can analyse the frequency of the word appreance and its 
 co-occurance with other words in the text. 
 
-# Task Splitup
 
-Arunkumar ---> User interface(Tkinter) and Design of the project workflow
-
-Deepak ---> Implementation of speech to text conversion for both audio and video
-
-Karthik Raja  --->Implementation of Keyword Extraction using RAKE algorithm
 
 # Future plan 
 
