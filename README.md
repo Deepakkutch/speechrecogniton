@@ -35,10 +35,11 @@ In the folder, run ``python setup.py install``.
 
 To use all of the functionality of the library, you should have:
 
-* **Python** 2.6, 2.7, or 3.3+ (required)
-* **PyAudio** 0.2.11+ (required only if you need to use microphone input, ``Microphone``)
-* **PocketSphinx** (required only if you need to use the Sphinx recognizer, ``recognizer_instance.recognize_sphinx``)
-* **Google API Client Library for Python** (required only if you need to use the Google Cloud Speech API,
+* Python 2.7
+* speechrecognition 3.8.1
+* moviepy 1.0.0
+* rake-nltk 1.0.4
+* Pyaudio 0.2.9
 
 
 
@@ -47,28 +48,19 @@ To use all of the functionality of the library, you should have:
 To quickly try it out, run ``python -m speech_recognition`` after installing.
 
 
-
-# Minimum Requirements
-
-* Python 2.7
-* speechrecognition 3.8.1
-* moviepy 1.0.0
-* rake-nltk 1.0.4
-* Pyaudio 0.2.9
-
 # Develope Environment
 
 Pycharm IDE 3.4
 
 # Module Splitup
 
-# Module 1:
+**Module 1:**
    User interface creation
    
-# Module 2:
+**Module 2:**
    Speech to text conversion
    
-# Module 3:
+**Module 3:**
    Keyword Extraction
 
 # Task Splitup
