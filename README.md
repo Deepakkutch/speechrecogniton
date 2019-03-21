@@ -84,17 +84,17 @@ Karthik Raja  --->Implementation of Keyword Extraction using RAKE algorithm
 
 # Technologies used
 
-Python
+* Python
 
-Tkinter
+* Tkinter
 
 # Processes done so far
 
-Conversion of structured and unstructured audio and video files using google speech recognition api.
+* Development of a simple user interface where the user selects audio or video file to be processed
 
-Extraction of keywords from the output file using RAKE(Rapid Automatic Keyword Extraction) algorithm.
+* Conversion of structured and unstructured audio and video files using google speech recognition api.
 
-Main feature of selecting RAKE algorithm is that it is domain independent and can analyse the frequency of the word appreance and its 
+* Extraction of keywords from the output file using RAKE(Rapid Automatic Keyword Extraction) algorithm.Main feature of selecting RAKE algorithm is that it is domain independent and can analyse the frequency of the word appreance and its 
 co-occurance with other words in the text. 
 
 
