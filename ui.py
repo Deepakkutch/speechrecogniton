@@ -10,7 +10,7 @@ def fileopen():
     filename = askopenfilename()
     file = filename
     if file[-3:] == "mp4":
-        clip = mp.VideoFileClip(file).subclip(60, 120)
+        clip = mp.VideoFileClip(file).subclip(0,30)
         clip.audio.write_audiofile("theaudio.wav")
         r = sr.Recognizer()
         audio = 'theaudio.wav'
@@ -38,6 +38,7 @@ def fileopen():
     r = Rake()
     r.extract_keywords_from_text(content)
     output = r.get_ranked_phrases()
+
     # saving the keywords to a file named keywords.txt
     text_file = open("keywords.txt", "w")
     text_file.write(str(output))
@@ -49,4 +50,5 @@ def fileopen():
 B = tkinter.Button(top, text ="Select file",command=fileopen)
 
 B.pack()
+top.mainloop()
 top.mainloop()
