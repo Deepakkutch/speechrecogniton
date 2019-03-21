@@ -43,9 +43,30 @@ To use all of the functionality of the library, you should have:
 
 
 
-**Quickstart:** ``pip install SpeechRecognition``. See the "Installing" section for more details.
+# Quickstart
 
-To quickly try it out, run ``python -m speech_recognition`` after installing.
+```
+pip install speechRecognition
+```
+To install Speech Recognition python package to convert speech to text
+
+```
+pip install rake-nltk
+
+```
+
+To install RAKE algorithm for the extraction of the keywords
+
+```
+pip install moviepy
+```
+To import Moviepy package used in the conversion of video files to text
+
+```
+pip install tkinter 
+
+``` 
+Python package to install tkinter used in the development of the user interface
 
 
 # Develope Environment
